@@ -1,0 +1,3 @@
+// my first JS script..............
+console.log("hello javascrip I did it.")
+console.log("esan fly")
